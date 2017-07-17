@@ -1,7 +1,7 @@
 # Easy-apache2-site
 Easy dummy guide for new delegates to make a website on a vps 
 
-# What you need to do after prepair the vps with a user
+# What you need to do after prepairing the vps with a user
 
 ## 1- Make a domain for your server and edit hostname to:
 
