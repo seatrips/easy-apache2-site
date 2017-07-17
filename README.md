@@ -13,6 +13,8 @@ sudo apt-get install apache2
 ```
 ## 3- Install ssl certificate
 ```
+sudo ufw allow 80/tcp
+sudo ufw allow 443/tcp
 sudo apt-get install software-properties-common
 sudo add-apt-repository ppa:certbot/certbot
 sudo apt-get update
