@@ -1,5 +1,4 @@
-# Easy-apache2-site
-Easy dummy guide for new delegates to make a website on a vps 
+# Easy guide for new delegates to make a website on a vps 
 
 # What you need to do after prepairing the vps with a user
 
